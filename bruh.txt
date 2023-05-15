@@ -1,4 +1,9 @@
 secret
+<<<<<<< HEAD
 meh
 
 loh
+=======
+[REDACTED] by master
+meh
+>>>>>>> Test
